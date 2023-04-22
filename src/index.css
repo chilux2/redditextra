@@ -78,6 +78,8 @@ span {
   width: 120px;
   border-radius: solid 1px;
   margin-top: 50px;
+  border-radius: 5px;
+  
 }
 
 .Searchbutton:hover {
